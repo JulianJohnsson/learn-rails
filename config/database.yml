@@ -13,3 +13,6 @@ test :
   pool: 5
   username: julienjanson
   password: 
+
+production :
+  adapter: postgresql
